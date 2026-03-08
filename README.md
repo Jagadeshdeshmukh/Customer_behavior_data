@@ -46,9 +46,9 @@ Visualization & Reporting
 * MS Word / PDF – Final Report
 
 
- Project Steps
+ Project Steps:
 
- 1. Data Loading
+ 1. Data Loading:
 
 * Loaded dataset into Python using Pandas.
 * Checked schema, data types, and basic structure.
@@ -102,7 +102,7 @@ Key insights derived from the analysis include:
 * Key factors impacting performance.
 * Areas of improvement and growth opportunities.
 
-How to Run the Project
+How to Run the Project:
 Step 1: Clone the Repository
 
 ```bash
@@ -129,7 +129,7 @@ Step 5: Open Power BI
 * Refresh the data source.
 * Explore the dashboard.
 
-Project Deliverables
+Project Deliverables:
 * Python notebooks (EDA & cleaning)
 * SQL scripts
 * Power BI dashboard
